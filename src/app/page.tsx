@@ -1,8 +1,4 @@
-'use client';
-import { useState } from 'react';
-
 export default function Home() {
-  const [email, setEmail] = useState('');
 
   return (
     <div className="min-h-screen bg-neutral-950 text-neutral-100 font-sans selection:bg-purple-500/30">
