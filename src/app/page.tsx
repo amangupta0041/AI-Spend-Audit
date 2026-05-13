@@ -53,15 +53,15 @@ export default function Home() {
           <p className="text-sm text-neutral-500 uppercase tracking-widest font-semibold mb-8">Trusted by engineering leaders</p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="text-left p-6 rounded-xl bg-neutral-900/30 border border-neutral-800/50">
-              <p className="text-neutral-300 mb-4">"We were paying for Copilot and Cursor, plus ChatGPT Team seats we weren't using. Saved $8,400 on our annual run rate."</p>
+              <p className="text-neutral-300 mb-4">&quot;We were paying for Copilot and Cursor, plus ChatGPT Team seats we weren&apos;t using. Saved $8,400 on our annual run rate.&quot;</p>
               <p className="text-sm text-neutral-500">— Sarah J., VP Eng</p>
             </div>
             <div className="text-left p-6 rounded-xl bg-neutral-900/30 border border-neutral-800/50">
-              <p className="text-neutral-300 mb-4">"Instantly showed me we were on the wrong Anthropic tier for our usage volume. Switched to API direct and cut spend by 40%."</p>
+              <p className="text-neutral-300 mb-4">&quot;Instantly showed me we were on the wrong Anthropic tier for our usage volume. Switched to API direct and cut spend by 40%.&quot;</p>
               <p className="text-sm text-neutral-500">— Michael T., Founder</p>
             </div>
             <div className="text-left p-6 rounded-xl bg-neutral-900/30 border border-neutral-800/50">
-              <p className="text-neutral-300 mb-4">"The PDF export was perfect for my board deck. Finally, a way to visualize our SaaS creep."</p>
+              <p className="text-neutral-300 mb-4">&quot;The PDF export was perfect for my board deck. Finally, a way to visualize our SaaS creep.&quot;</p>
               <p className="text-sm text-neutral-500">— Elena R., CTO</p>
             </div>
           </div>
