@@ -3,7 +3,7 @@
 A free web tool that helps startups instantly identify where they are overspending on AI subscriptions and API costs. Designed for Engineering Managers and Founders to right-size their stack.
 
 ## Live Demo
-**[Insert Vercel URL Here]**
+**[https://credex-ai-audit-gamma.vercel.app](https://credex-ai-audit-gamma.vercel.app)**
 
 ## Screenshots
 *(Mock screenshots representing the application flow)*
